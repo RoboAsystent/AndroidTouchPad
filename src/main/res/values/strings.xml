@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">BTP</string>
-    <string name="settings">Settings</string>
-    <string name="bl_out">Bluetooth is disabled!</string>
-    <string name="toolbar_title">Bluetooth Touchpad</string>
-    <string name="log">BT module active</string>
-    <string name="more_log">BT module disactive</string>
-    <string name="turn_bt">Turn BT</string>
-</resources>
